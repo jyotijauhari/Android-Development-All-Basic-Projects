@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Tic Tac Toe 3</string>
+    <string name="welcome_to_tic_tac_toe">Welcome to tic tac toe!</string>
+    <string name="status">Status</string>
+</resources>

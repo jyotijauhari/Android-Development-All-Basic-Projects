@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">QRCodeScanner</string>
+    <string name="scan">Scan</string>
+    <string name="results_appear_here">Result of scan will appear here..</string>
+</resources>

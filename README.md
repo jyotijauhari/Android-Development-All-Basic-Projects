@@ -10,10 +10,10 @@ This repo helps to pick right java project for you to get started.
 ## 👉 Projects
 
 - [AlertDialog](https://github.com/JyotiJauhari/Android-Development-All-Basic-Projects/tree/master/AlertDialog)
-- [BottomSheet](https://github.com/ShoaibKakal/Android-Development-All-Basic-Projects/tree/master/BottomSheet)
 - [AndroidAutoCompleteTextView](https://github.com/JyotiJauhari/Android-Development-All-Basic-Projects/tree/master/AndroidAutoCompleteTextView)
 - [AndroidFragments](https://github.com/JyotiJauhari/Android-Development-All-Basic-Projects/tree/master/AndroidFragments)
 - [AutoCompleteTextView](https://github.com/JyotiJauhari/Android-Development-All-Basic-Projects/tree/master/AutoCompleteTextView)
+- [BottomSheet](https://github.com/ShoaibKakal/Android-Development-All-Basic-Projects/tree/master/BottomSheet)
 - [CustomToast](https://github.com/JyotiJauhari/Android-Development-All-Basic-Projects/tree/master/CustomToast)
 - [DatePicker](https://github.com/JyotiJauhari/Android-Development-All-Basic-Projects/tree/master/DatePicker)
 - [Dishes Menu Card](https://github.com/JyotiJauhari/Android-Development-All-Basic-Projects/tree/master/Dishes%20Menu%20Card)

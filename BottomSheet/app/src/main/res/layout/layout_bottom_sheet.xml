@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:background="@drawable/background_bottom_sheet"
+    android:orientation="vertical"
+    app:behavior_peekHeight = "60dp"
+    app:layout_behavior="@string/bottom_sheet_behavior"
+    android:id="@+id/layoutBottomSheet"
+    >
+
+    <TextView
+        android:text="Bottom Sheet"
+        android:layout_width="match_parent"
+        android:layout_height="55dp"
+        android:textColor="@android:color/white"
+        android:background="@null"
+        android:gravity="center"
+        android:textSize="14sp"
+        android:includeFontPadding="false"
+        android:layout_marginTop="5dp"
+        android:textStyle="bold"
+        />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="35dp"
+        android:text=">> This is Bottom sheet textview"
+        android:textSize="12sp"
+        android:layout_marginStart="12dp"
+        android:textColor="@android:color/white"
+        android:gravity="center_vertical"
+        android:includeFontPadding="false"
+        />
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="35dp"
+        android:text=">> This is Bottom sheet textview"
+        android:textSize="12sp"
+        android:layout_marginStart="12dp"
+        android:textColor="@android:color/white"
+        android:gravity="center_vertical"
+        android:includeFontPadding="false"
+        />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="35dp"
+        android:text=">> This is Bottom sheet textview"
+        android:textSize="12sp"
+        android:layout_marginStart="12dp"
+        android:textColor="@android:color/white"
+        android:gravity="center_vertical"
+        android:includeFontPadding="false"
+        />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="35dp"
+        android:text=">> This is Bottom sheet textview"
+        android:textSize="12sp"
+        android:layout_marginStart="12dp"
+        android:textColor="@android:color/white"
+        android:gravity="center_vertical"
+        android:includeFontPadding="false"
+        />
+
+
+
+
+</LinearLayout>
